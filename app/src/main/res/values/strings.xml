@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="num_tasks_initial">You have 0 tasks</string>
+    <string name="view_tasks">View Tasks</string>
+    <string name="create_task">Create Task</string>
+    <string name="select_task">Select Task</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="name_txt">Name:</string>
+    <string name="date_txt">Date:</string>
+    <string name="priority_txt">Priority:</string>
+    <string name="set_date">Set Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="task_info">Task Information</string>
+    <string name="delete">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
